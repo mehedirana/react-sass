@@ -10,6 +10,8 @@ import Like from './components/Like'
 import Signup from './components/Signup'
 import Footer from './components/Footer'
 
+import '../src/scss/index.scss'
+
 function App() {
   return (
     <div className='app-container'>
